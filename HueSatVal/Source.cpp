@@ -10,6 +10,7 @@ using namespace cv;
 int slider1;
 int slider2;
 int slider3;
+int iii;
 // Callback function for trackbar event 
 void on_trackbar1(int pos, void *)
 {
